@@ -67,7 +67,7 @@ Gerar insights e recomendações das melhores áreas para investimento no Airbnb
 - Todos os gráficos e visualizações contêm insights valiosos e recomendações específicas.
 
 ## Links
-- [Visualização no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjMyN2NlNDItNjEyYy00MTcxLTg1YmEtMTkzZmU3ZmFkODhiIiwidCI6Ijg0MmQ2OTI3LWYzOWMtNDU0Ni04ODg3LWMxNTYxYWMyOTA1NiJ9)
+- [Visualização no Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2M2MDRjYjctYzg0YS00NDhiLWEzMjItZTM3MmIzMTk5ZDA2IiwidCI6Ijg0MmQ2OTI3LWYzOWMtNDU0Ni04ODg3LWMxNTYxYWMyOTA1NiJ9)
 - [Apresentação no YouTube](https://youtu.be/37k_ATw1UHs)
 - [Link para o arquivo em PowerPoint](./ProjetoFinalBoston.pptx)
 - [Link para o arquivo em PDF](./ProjetoFinalBoston.pdf)
